@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223020335056",
+    "project_id": "carsales-18b1c",
+    "storage_bucket": "carsales-18b1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223020335056:android:e017039b81717cdd4ec3d5",
+        "android_client_info": {
+          "package_name": "com.carsales.carsales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223020335056-ve8cirasjhh1ft8n7f0h3aojkhtdrmkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB07ddt2LAfnN6tjPV_h5TcJeyyOz3At5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223020335056-ve8cirasjhh1ft8n7f0h3aojkhtdrmkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
